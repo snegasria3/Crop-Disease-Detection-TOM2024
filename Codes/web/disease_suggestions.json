@@ -1,0 +1,92 @@
+{
+    "maize_diseases_Abiotic_disease-D": {
+        "suggestion": "Check soil moisture, nutrient levels, and environmental conditions. Avoid excessive fertilization or chemical use. Ensure proper irrigation."
+    },
+    "maize_diseases_Curvularia-D": {
+        "suggestion": "Remove and destroy infected leaves. Apply appropriate fungicides. Ensure proper spacing and avoid waterlogging."
+    },
+    "maize_diseases_Healthy_leaf": {
+        "suggestion": "Plant is healthy. Continue regular monitoring, proper watering, fertilization, and pest management."
+    },
+    "maize_diseases_Helminthosporiosis-D": {
+        "suggestion": "Apply fungicides during early infection. Remove infected debris. Use resistant maize varieties."
+    },
+    "maize_diseases_Rust-D": {
+        "suggestion": "Spray recommended fungicides. Ensure good air circulation and remove infected leaves. Rotate crops."
+    },
+    "maize_diseases_Stripe-D": {
+        "suggestion": "Use certified disease-free seeds. Apply fungicides and maintain crop rotation. Monitor regularly for early signs."
+    },
+    "maize_diseases_Virosis-D": {
+        "suggestion": "Remove infected plants immediately. Control insect vectors. Avoid planting in infected areas for a season."
+    },
+    "maize_pests_Chenille l├⌐gionnaire-P": {
+        "suggestion": "Handpick larvae if possible. Use Bacillus thuringiensis (Bt) sprays or recommended insecticides. Encourage natural predators."
+    },
+    "maize_pests_Pucerons-P": {
+        "suggestion": "Use neem oil or insecticidal soaps. Encourage ladybugs and lacewings as natural predators."
+    },
+    "maize_pests_activities_Chenille l├⌐gionnaire- A": {
+        "suggestion": "Monitor larval activity. Apply Bt-based biopesticides or approved chemical insecticides. Remove heavily infested plants."
+    },
+    "onion_diseases_Alternaria_D": {
+        "suggestion": "Remove infected leaves and bulbs. Apply appropriate fungicides. Ensure crop rotation and avoid overhead irrigation."
+    },
+    "onion_diseases_Bulb_blight-D": {
+        "suggestion": "Use disease-free sets. Apply fungicides. Avoid planting in wet, compacted soils and remove infected bulbs."
+    },
+    "onion_diseases_Fusarium-D": {
+        "suggestion": "Use resistant varieties. Avoid waterlogging and practice crop rotation. Remove infected plants."
+    },
+    "onion_diseases_Healthy_leaf": {
+        "suggestion": "Maintain regular care, proper irrigation, and pest monitoring to keep onions healthy."
+    },
+    "onion_diseases_Virosis-D": {
+        "suggestion": "Remove infected plants. Control aphid populations which spread the virus. Avoid replanting in the same area immediately."
+    },
+    "onion_pests_Chenilles-P": {
+        "suggestion": "Apply recommended insecticides or biopesticides. Handpick caterpillars if feasible. Encourage natural predators."
+    },
+    "tomato_diseases_Bacterial_floundering_d": {
+        "suggestion": "Remove and destroy infected plants. Avoid overhead watering. Apply copper-based bactericides and practice crop rotation."
+    },
+    "tomato_diseases_Blossom_end_rot_d": {
+        "suggestion": "Maintain consistent soil moisture. Apply calcium-rich fertilizers. Avoid sudden changes in watering."
+    },
+    "tomato_diseases_Mite_d": {
+        "suggestion": "Spray miticides or neem oil. Maintain proper plant spacing and remove heavily infested leaves."
+    },
+    "tomato_diseases_alternaria_d": {
+        "suggestion": "Remove infected leaves. Apply fungicides. Ensure proper ventilation and avoid overhead irrigation."
+    },
+    "tomato_diseases_alternaria_mite_d": {
+        "suggestion": "Combine mite control with fungicide application. Keep plants well-pruned and spaced. Monitor regularly."
+    },
+    "tomato_diseases_exces_nitrogen_d": {
+        "suggestion": "Avoid over-fertilization. Maintain balanced nutrient supply. Monitor growth and adjust fertilizers accordingly."
+    },
+    "tomato_diseases_fusarium_d": {
+        "suggestion": "Use resistant varieties. Remove infected plants. Practice crop rotation and solarize soil if possible."
+    },
+    "tomato_diseases_healthy_fruit": {
+        "suggestion": "Fruits are healthy. Maintain proper watering, nutrient management, and pest monitoring."
+    },
+    "tomato_diseases_healthy_leaf": {
+        "suggestion": "Leaves are healthy. Continue good cultural practices and regular inspection for pests and diseases."
+    },
+    "tomato_diseases_sunburn_d": {
+        "suggestion": "Provide shade during peak sunlight. Mulch around plants to retain moisture. Avoid water stress."
+    },
+    "tomato_diseases_tomato_late_blight_d": {
+        "suggestion": "Remove and destroy infected leaves and plants. Apply fungicides and practice crop rotation. Avoid overhead watering."
+    },
+    "tomato_diseases_virosis_d": {
+        "suggestion": "Remove infected plants. Control insect vectors (whiteflies, aphids). Avoid planting susceptible varieties in the same field."
+    },
+    "tomato_pests_helicoverpa_armigera_p": {
+        "suggestion": "Use pheromone traps or biopesticides. Apply recommended insecticides if infestation is high."
+    },
+    "tomato_pests_tuta_absoluta_p": {
+        "suggestion": "Install pheromone traps. Use biological control agents. Apply insecticides carefully and monitor regularly."
+    }
+}
